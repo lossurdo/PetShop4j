@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Dec 05 12:55:14 BRST 2013:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-0142-c341-6c84-0000069fd900 
+on database directory C:\Users\rafael-lossurdo\Desktop\PetShop4j\PetShopDB with class loader sun.misc.Launcher$AppClassLoader@207148e9 
+Loaded from file:/C:/Users/rafael-lossurdo/Desktop/PetShop4j/target/PetShop4j.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_25-b17
+user.dir=c:\Users\rafael-lossurdo\Desktop\PetShop4j
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
